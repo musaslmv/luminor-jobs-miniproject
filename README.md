@@ -3,7 +3,7 @@ Mini project for Luminor Job/Internship Application
 
 Parts:
 
-1- Web scrape - https://luminorbank.teamtailor.com/jobs\
+1- Web scrape - https://luminorbank.teamtailor.com/jobs \
 2- Data Analysis via Tableau
 
 **Project problem:** The process of job-search is time-consuming for an applicant.
