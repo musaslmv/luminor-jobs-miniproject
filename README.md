@@ -1,4 +1,4 @@
-# swedbank-jobs-miniproject
+# luminor-jobs-miniproject
 Mini project for Luminor Job/Internship Application
 
 Parts:
